@@ -308,5 +308,3 @@ class Testing {
 			assertEquals(currentText, expectedText);
 		}
 }
-
-//testing
