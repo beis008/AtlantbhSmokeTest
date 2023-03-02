@@ -15,7 +15,7 @@ Selenium Java libraries:
 
 2nd page
 
-1[Jav Library 2](https://cdn.discordapp.com/attachments/1031956501792837665/1080809732304023582/JAR_2.PNG)
+![Jav Library 2](https://cdn.discordapp.com/attachments/1031956501792837665/1080809732304023582/JAR_2.PNG)
 
 Downloading the code: Provide instructions on how to download your code from GitHub.
 
