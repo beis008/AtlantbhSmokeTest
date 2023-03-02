@@ -36,7 +36,7 @@ class Testing {
 		String currentUrl = driver.getCurrentUrl();
 		assertEquals(currentUrl, baseUrl);
 	}
-	/*@Test
+	@Test
 	void registerAccount() throws InterruptedException {
 		driver.get(baseUrl);
 		JavascriptExecutor js = (JavascriptExecutor) driver;
@@ -87,7 +87,7 @@ class Testing {
 		String ExpectedText = "Log in";
 		String CurrentText = button.getText();
 		assertEquals(CurrentText, ExpectedText);
-	}*/
+	}
 	
 	@Test
 	void Login() throws InterruptedException {
