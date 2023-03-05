@@ -22,10 +22,11 @@ The following images show the Manual and Automation process of the code and acti
 
 Here is the Excel link if the one I sent on email cant be donwloaded.
 https://docs.google.com/spreadsheets/d/1pf27FkwiZ1RLtwdBd3URkjvfU1UZfZgACRpS5XqnUl0/edit#gid=1603720232
-
+'''
 void openHomePage() throws InterruptedException {
 		driver.get(baseUrl);
 		Thread.sleep(1000);
 		String currentUrl = driver.getCurrentUrl();
 		assertEquals(currentUrl, baseUrl);
+'''
 ![Case 1](https://user-images.githubusercontent.com/98764556/222982501-1b55b2c4-0b20-4b70-9956-3a12d0604b0d.png)
