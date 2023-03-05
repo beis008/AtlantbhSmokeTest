@@ -23,22 +23,36 @@ The following images show the Manual and Automation process of the code and acti
 Here is the Excel link if the one I sent on email cant be donwloaded.
 https://docs.google.com/spreadsheets/d/1pf27FkwiZ1RLtwdBd3URkjvfU1UZfZgACRpS5XqnUl0/edit#gid=1603720232
 
+## TEST SCENARIO 1 Accessing The Website 
 ![Case 1](https://user-images.githubusercontent.com/98764556/222982501-1b55b2c4-0b20-4b70-9956-3a12d0604b0d.png)
+## TEST SCENARIO 2 Making an Account
 ![Case 2 0 and 4 0](https://user-images.githubusercontent.com/98764556/222982733-2913b843-d931-42f7-923a-197e122c5f1f.png)
 ![Case 2 1](https://user-images.githubusercontent.com/98764556/222982745-9506f66e-8bd1-4fb1-b351-c85b01fe6e37.png)
+## TEST SCENARIO 3 Logging Out
 ![Case 3 0](https://user-images.githubusercontent.com/98764556/222982757-21a5fadc-714b-441f-be1c-050dd4680f5e.png)
-![Case 2 0 and 4 0](https://user-images.githubusercontent.com/98764556/222982761-1c7f0c1d-7486-4ecc-b551-f952486a43a1.png)![Case 5 0](https://user-images.githubusercontent.com/98764556/222982793-7c935353-7d15-4efe-a9e9-897e756d084e.png)
+## TEST SCENARIO 4 Logging in
+![Case 2 0 and 4 0](https://user-images.githubusercontent.com/98764556/222982761-1c7f0c1d-7486-4ecc-b551-f952486a43a1.png)
 ![Case 4 1](https://user-images.githubusercontent.com/98764556/222982768-80299b21-5977-4d91-96c6-130158f4e2c2.png)
+## TEST SCENARIO 5 Going to the Homepage
+Clicking on the icon to see if it'll open the home page
 ![Case 5 0](https://user-images.githubusercontent.com/98764556/222982836-2f7d4ff0-a4d9-4807-9b91-cc4f1c408f41.png)
+## TEST SCENARIO 6 Womens Trends
 ![Case 6 0](https://user-images.githubusercontent.com/98764556/222982851-adbbf4bd-92e6-47f8-ab78-1822c89bb7e8.png)
+## TEST SCENARIO 7 Real Mens Fashion
+Test scenario 6 brings us back on the top of the home page, making this test scenario easy to execute
 ![Case 7 0](https://user-images.githubusercontent.com/98764556/222982859-5adaf7e2-886e-4a78-bce5-c03e72689e1f.png)
+## TEST SCENARIO 8 Search
 ![Case 8 0 and 12](https://user-images.githubusercontent.com/98764556/222982867-6589e878-386a-4c7f-9cf2-ecd59ff56ff8.png)
 ![Case 8 1](https://user-images.githubusercontent.com/98764556/222982886-66b4e527-d2dc-4e3b-a794-c424392fb23f.png)
+## TEST SCENARIO  9 Buying a product by searching a color
 ![Case 9 0](https://user-images.githubusercontent.com/98764556/222982895-d5cb16d0-b159-4228-8d2d-e97e5d7cd3fa.png)
 ![Case 9 1](https://user-images.githubusercontent.com/98764556/222982900-651371b5-bf1c-4c2a-be2f-48a37d396913.png)
+## TEST SCENARIO 10 Cart
 ![Case 10 0](https://user-images.githubusercontent.com/98764556/222982903-bed8de78-5594-4207-be59-e0568de2a032.png)
 ![Case 10 1](https://user-images.githubusercontent.com/98764556/222982908-1860f904-c2c6-4dc2-835b-d132dc1591c2.png)
+## TEST SCENARIO 11 Going Back
 ![Case 11](https://user-images.githubusercontent.com/98764556/222982911-9e4a61ec-fa06-4a4b-994b-874b2a3236da.png)
+## TEST SCENARIO 12 Filters
 ![Case 8 0 and 12](https://user-images.githubusercontent.com/98764556/222982917-c34663b7-c90a-41cf-b4f4-dbebe5762af6.png)
 ![Case 12 1](https://user-images.githubusercontent.com/98764556/222982920-f59a5243-8fbe-49d8-94dd-042954bee981.png)
 ![Case 12 2](https://user-images.githubusercontent.com/98764556/222982923-99ad41e4-be1d-4037-86e1-b2e06639f59f.png)
@@ -51,8 +65,7 @@ https://docs.google.com/spreadsheets/d/1pf27FkwiZ1RLtwdBd3URkjvfU1UZfZgACRpS5Xqn
 ![Case 12 9](https://user-images.githubusercontent.com/98764556/222982968-a615b87c-3ab8-4f0b-9d13-ca7ddd0047b9.png)
 ![Case 12 10](https://user-images.githubusercontent.com/98764556/222982978-c4e367f3-edbd-4376-b3bb-a39f25ef553c.png)
 ![Case 12 11](https://user-images.githubusercontent.com/98764556/222982979-47373696-e589-4734-81cb-4a59976e0de0.png)
+## TEST SCENARIO 13 Checkout
 ![Case 13 0](https://user-images.githubusercontent.com/98764556/222982981-ab9dc575-95a4-49cb-b850-ba9e8b7dda17.png)
 ![Case 13 1](https://user-images.githubusercontent.com/98764556/222982983-446424a9-3fd9-41fe-9a78-f66c8de2598c.png)
 ![Case 13 2](https://user-images.githubusercontent.com/98764556/222982985-b0ddb1d3-6bf9-4a73-83d5-77df09ed6b2e.png)
-
-
