@@ -22,11 +22,20 @@ The following images show the Manual and Automation process of the code and acti
 
 Here is the Excel link if the one I sent on email cant be donwloaded.
 https://docs.google.com/spreadsheets/d/1pf27FkwiZ1RLtwdBd3URkjvfU1UZfZgACRpS5XqnUl0/edit#gid=1603720232
-'''
-void openHomePage() throws InterruptedException {
-		driver.get(baseUrl);
-		Thread.sleep(1000);
-		String currentUrl = driver.getCurrentUrl();
-		assertEquals(currentUrl, baseUrl);
-'''
+
 ![Case 1](https://user-images.githubusercontent.com/98764556/222982501-1b55b2c4-0b20-4b70-9956-3a12d0604b0d.png)
+![Case 2 0 and 4 0](https://user-images.githubusercontent.com/98764556/222982733-2913b843-d931-42f7-923a-197e122c5f1f.png)
+![Case 2 1](https://user-images.githubusercontent.com/98764556/222982745-9506f66e-8bd1-4fb1-b351-c85b01fe6e37.png)
+![Case 3 0](https://user-images.githubusercontent.com/98764556/222982757-21a5fadc-714b-441f-be1c-050dd4680f5e.png)
+![Case 2 0 and 4 0](https://user-images.githubusercontent.com/98764556/222982761-1c7f0c1d-7486-4ecc-b551-f952486a43a1.png)![Case 5 0](https://user-images.githubusercontent.com/98764556/222982793-7c935353-7d15-4efe-a9e9-897e756d084e.png)
+![Case 4 1](https://user-images.githubusercontent.com/98764556/222982768-80299b21-5977-4d91-96c6-130158f4e2c2.png)
+![Uploading Case 5.0.png…]()
+
+
+
+
+
+
+
+
+
