@@ -17,10 +17,15 @@ Selenium Java libraries: Downloaded from https://www.oracle.com/in/java/technolo
 
 ![Jav Library 2](https://cdn.discordapp.com/attachments/1031956501792837665/1080809732304023582/JAR_2.PNG)
 
-Downloading the code: Provide instructions on how to download your code from GitHub.
 
-Importing the project into Eclipse: selecting "File" > "Import" > "Existing Projects into Workspace" and then navigating to the folder where your code is saved.
+The following images show the Manual and Automation process of the code and action on the smoke test
 
-Running the code: Right-clicking on your Java file in the Project Explorer and selecting "Run As" > "Java Application". You should also include any command-line arguments or other configuration options that are necessary to run your code.
+Here is the Excel link if the one I sent on email cant be donwloaded.
+https://docs.google.com/spreadsheets/d/1pf27FkwiZ1RLtwdBd3URkjvfU1UZfZgACRpS5XqnUl0/edit#gid=1603720232
 
-Troubleshooting: 
+void openHomePage() throws InterruptedException {
+		driver.get(baseUrl);
+		Thread.sleep(1000);
+		String currentUrl = driver.getCurrentUrl();
+		assertEquals(currentUrl, baseUrl);
+![Case 1](https://user-images.githubusercontent.com/98764556/222982501-1b55b2c4-0b20-4b70-9956-3a12d0604b0d.png)
